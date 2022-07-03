@@ -1,7 +1,7 @@
 								/* PSP FINAL PROJECT
 								TEAM 5 - Cod3 Knights
 								Developers: Prince, Hamid, Faisal, Lohith
-								Date Of Program: 29-05-2022  */
+								Date Of Program: 29-05-2022 */
 #include<stdio.h>
 #include<string.h>
 #include<stdlib.h>
