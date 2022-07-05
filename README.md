@@ -23,3 +23,5 @@ Conclusion of Project:-
 
 Our project Aims for Make Online Billing Systems for Air Conditioning process more Simple and Accessible through Our C Program.
 The process first asks for the energy rating which starts from 3 stars to protect the Environment. After which the Customer can select the model they're interested in and can either Add more items to purchase or Directly Go to the Billing Process. The Billing process is also made easy with many payment options including The Process is Further Simplified by Adding Multiple Payment Methods which include Credit Card, Debit Card, Cash or EMI option to provide customers the flexibility of paying in installments.
+
+For any doubts, Feel free to contact https://www.instagram.com/programmer_princepvs/
